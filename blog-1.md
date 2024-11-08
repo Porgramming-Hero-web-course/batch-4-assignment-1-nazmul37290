@@ -1,6 +1,6 @@
 # The Significance of Union and Intersection Types in TypeScript
 
-ypeScript adds static typing to JavaScript, which can help developers catch errors early and write more predictable code. Though TypeScript provides a form of several types, union and intersection types are such features that can significantly allow us to express complex data structures and enhance the flexibility and safety of our code. Let’s know about what these types are, and why they are important
+TypeScript adds static typing to JavaScript, which can help developers catch errors early and write more predictable code. Though TypeScript provides a form of several types, union and intersection types are such features that can significantly allow us to express complex data structures and enhance the flexibility and safety of our code. Let’s know about what these types are, and why they are important
 
 ## Union Types: Accepting Versatility
 
